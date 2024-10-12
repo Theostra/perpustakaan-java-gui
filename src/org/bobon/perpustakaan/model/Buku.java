@@ -64,7 +64,9 @@ public class Buku {
         this.hargaSewa = hargaSewa;
     }
     
-    
+    public void test(){
+        
+    }
         
     
 }
